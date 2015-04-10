@@ -1,19 +1,19 @@
-Step 1: I created a folder on my desktop “gitAssessment” and opened a textedit file within it. 
+Step 1: I created a folder on my desktop “gitAssessment” and opened a saved a TEXT file within it. 
 
 Within the command line, I did the following:
 
 Step 2: $ cd  Desktop —> $ cd gitAssessment
 
-Step 3: $ git init - created an empty repository within this directory 
+Step 3: $ git init - I created an empty repository within this directory 
 
-Step 4: $ git remote add origin https://github.com/clarejacky/gitAssessment.git - synced a previously created repository on github for this assignment. 
+Step 4: $ git remote add origin https://github.com/clarejacky/gitAssessment.git - I synced a previously created repository on github for this assignment. 
 
-Step 5: $ git add . - added the TEXT file to the staging area.
+Step 5: $ git add . - I added the TEXT file to the staging area.
 
-Step 6: $ git commit -m “Initial Commit of TEXT”
+Step 6: $ git commit -m “Initial Commit of TEXT” - I committed the file to the repository.
 
-Step 7: $ git push -u origin master - sent the TEXT file up to the remote repository 
+Step 7: $ git push -u origin master - I sent the TEXT file up to the remote repository 
 
 Step 8:  I used the same steps to add the README.md file to github
 
-Step 9: As I made changes to my textedit file, I would add it, commit it, and push those changes to my github repository. 
+Step 9: As I made changes to my TEXT file, I would add it, commit it, and push those changes to my github repository. 
