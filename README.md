@@ -1,1 +1,1 @@
-This is the README file for TEXT.txt. See TEXT.txt for steps to upload to github using git and the Terminal. 
+This is the README file for gitAssessment. See TEXT.txt for steps to upload to github using git and the Terminal. 
